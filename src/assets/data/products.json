@@ -1,0 +1,162 @@
+[
+	{
+		"id": 1,
+		"name": "Dream Earrings",
+		"price": 2500,
+		"imageUrl": "earrings.png",
+		"description": "Beautiful earrings with intricate details.",
+		"scopes": [],
+		"apiResources": [],
+		"proxies": []
+	},
+	{
+		"id": 2,
+		"name": "Dream Necklace",
+		"price": 12500,
+		"imageUrl": "necklace.png",
+		"description": "Elegant necklace with a stunning pendant.",
+		"scopes": [],
+		"apiResources": [],
+		"proxies": []
+	},
+	{
+		"id": 3,
+		"name": "Panthere Ring",
+		"price": 8500,
+		"imageUrl": "ring.png",
+		"description": "World class ring with a beautiful presence.",
+		"scopes": [],
+		"apiResources": [],
+		"proxies": []
+	},
+	{
+		"id": 4,
+		"name": "Love Bracelet",
+		"price": 5000,
+		"imageUrl": "bracelet.png",
+		"description": "Feel the love now more than ever.",
+		"scopes": [],
+		"apiResources": [],
+		"proxies": []
+	},
+	{
+		"id": 5,
+		"name": "Trinity Bracelet",
+		"price": 2500,
+		"imageUrl": "bracelet-1.png",
+		"description": "Feel the love now more than ever.",
+		"scopes": [],
+		"apiResources": [],
+		"proxies": []
+	},
+	{
+		"id": 6,
+		"name": "Panthere Bracelet",
+		"price": 3500,
+		"imageUrl": "bracelet-2.png",
+		"description": "Feel the love now more than ever.",
+		"scopes": [],
+		"apiResources": [],
+		"proxies": []
+	},
+	{
+		"id": 7,
+		"name": "Clash Bracelet",
+		"price": 7500,
+		"imageUrl": "bracelet-3.png",
+		"description": "Feel the love now more than ever.",
+		"scopes": [],
+		"apiResources": [],
+		"proxies": []
+	},
+	{
+		"id": 8,
+		"name": "Agrafe Necklace",
+		"price": 9500,
+		"imageUrl": "necklace-1.png",
+		"description": "Feel the love now more than ever.",
+		"scopes": [],
+		"apiResources": [],
+		"proxies": []
+	},
+	{
+		"id": 9,
+		"name": "Amulette Necklace",
+		"price": 1500,
+		"imageUrl": "necklace-2.png",
+		"description": "Feel the love now more than ever.",
+		"scopes": [],
+		"apiResources": [],
+		"proxies": []
+	},
+	{
+		"id": 10,
+		"name": "Cactus Necklace",
+		"price": 15000,
+		"imageUrl": "necklace-3.png",
+		"description": "Feel the love now more than ever.",
+		"scopes": [],
+		"apiResources": [],
+		"proxies": []
+	},
+	{
+		"id": 11,
+		"name": "Dream Earrings",
+		"price": 20000,
+		"imageUrl": "earrings-1.png",
+		"description": "Feel the love now more than ever.",
+		"scopes": [],
+		"apiResources": [],
+		"proxies": []
+	},
+	{
+		"id": 12,
+		"name": "Serpenti Earrings",
+		"price": 15000,
+		"imageUrl": "earrings-2.png",
+		"description": "Feel the love now more than ever.",
+		"scopes": [],
+		"apiResources": [],
+		"proxies": []
+	},
+	{
+		"id": 13,
+		"name": "B.Zero1 Earrings",
+		"price": 2000,
+		"imageUrl": "earrings-3.png",
+		"description": "Feel the love now more than ever.",
+		"scopes": [],
+		"apiResources": [],
+		"proxies": []
+	},
+	{
+		"id": 14,
+		"name": "Serpenti Ring",
+		"price": 1500,
+		"imageUrl": "ring-1.png",
+		"description": "Feel the love now more than ever.",
+		"scopes": [],
+		"apiResources": [],
+		"proxies": []
+	},
+	{
+		"id": 15,
+		"name": "B.Zero1 Ring",
+		"price": 1000,
+		"imageUrl": "ring-2.png",
+		"description": "Feel the love now more than ever.",
+		"scopes": [],
+		"apiResources": [],
+		"proxies": []
+	},
+	{
+		"id": 16,
+		"name": "Bvulgari Ring",
+		"price": 3500,
+		"imageUrl": "ring-3.png",
+		"description": "Feel the love now more than ever.",
+		"scopes": [],
+		"apiResources": [],
+		"proxies": []
+	}
+]

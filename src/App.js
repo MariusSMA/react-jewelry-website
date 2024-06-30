@@ -32,7 +32,7 @@ function App() {
 					setLoggedIn={setIsLoggedIn}
 				/>
 				<Routes>
-					<Route path="/react-jewelry-website" element={<HomePage />} />
+					<Route path="/" element={<HomePage />} />
 					<Route path="/catalogue" element={<CataloguePage />} />
 					<Route path="/about" element={<AboutPage />} />
 					<Route path="/shopping-cart" element={<ShoppingCartPage />} />

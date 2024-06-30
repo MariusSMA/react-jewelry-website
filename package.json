@@ -1,5 +1,6 @@
 {
 	"name": "react-jewelry-website",
+	"homepage": "https://mariussma.github.io/react-jewelry-website",
 	"version": "0.1.0",
 	"private": true,
 	"dependencies": {

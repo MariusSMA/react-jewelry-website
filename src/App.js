@@ -29,11 +29,10 @@ function App() {
 				<Header
 					isLoggedIn={isLoggedIn}
 					username={username}
-					setLoggedIn={setIsLoggedIn} // Pass the function to setLoggedIn
-					setUsername={setUsername} // Pass the function to setUsername
+					setLoggedIn={setIsLoggedIn}
 				/>
 				<Routes>
-					<Route path="/" element={<HomePage />} />
+					<Route path="/react-jewelry-website" element={<HomePage />} />
 					<Route path="/catalogue" element={<CataloguePage />} />
 					<Route path="/about" element={<AboutPage />} />
 					<Route path="/shopping-cart" element={<ShoppingCartPage />} />
@@ -45,8 +44,8 @@ function App() {
 						path="/login"
 						element={
 							<LoginPage
-								setLoggedIn={setIsLoggedIn} // Pass the function to setLoggedIn
-								setUsername={setUsername} // Pass the function to setUsername
+								setLoggedIn={setIsLoggedIn}
+								setUsername={setUsername}
 							/>
 						}
 					/>

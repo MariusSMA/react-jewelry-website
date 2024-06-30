@@ -25,8 +25,7 @@ function App() {
 
 	return (
 		<CartProvider>
-			<div basename="/react-jewelry-website/">
-			<BrowserRouter>
+			<BrowserRouter basename="/react-jewelry-website">
 				<Header
 					isLoggedIn={isLoggedIn}
 					username={username}
@@ -62,7 +61,6 @@ function App() {
 					/>
 				</Routes>
 			</BrowserRouter>
-			</div>
 		</CartProvider>
 	);
 }

@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-jewelry-website/static/css/main.10830039.css",
-    "main.js": "/react-jewelry-website/static/js/main.be93a51c.js",
+    "main.js": "/react-jewelry-website/static/js/main.eb4ed35a.js",
     "static/js/453.ef5e3da2.chunk.js": "/react-jewelry-website/static/js/453.ef5e3da2.chunk.js",
     "static/media/illustration.svg": "/react-jewelry-website/static/media/illustration.e8c3639a990e1f2695758cb65e041cc8.svg",
     "static/media/illustration-2.svg": "/react-jewelry-website/static/media/illustration-2.6a55ea8afac2bc5845ba554b07945663.svg",
@@ -35,11 +35,11 @@
     "static/media/facebook.svg": "/react-jewelry-website/static/media/facebook.bb56d30f46c98789cc92939b3ef37f3e.svg",
     "static/media/down-arrow.svg": "/react-jewelry-website/static/media/down-arrow.aca32e0639eb511faf9fcbe909ef3e4a.svg",
     "main.10830039.css.map": "/react-jewelry-website/static/css/main.10830039.css.map",
-    "main.be93a51c.js.map": "/react-jewelry-website/static/js/main.be93a51c.js.map",
+    "main.eb4ed35a.js.map": "/react-jewelry-website/static/js/main.eb4ed35a.js.map",
     "453.ef5e3da2.chunk.js.map": "/react-jewelry-website/static/js/453.ef5e3da2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.10830039.css",
-    "static/js/main.be93a51c.js"
+    "static/js/main.eb4ed35a.js"
   ]
 }
